@@ -1,0 +1,12 @@
+{
+  "name": "matrix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luhut Andreas",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node src"
+  },
+  "type": "module"
+}
